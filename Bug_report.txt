@@ -8,6 +8,9 @@ Fix Versions: None
 
 Description
 
+Note 1: This issue occurs in the Beta environment.
+Note 2: The issue occurs only with the Profile photo.
+
 Preconditions:
 1. An app is installed
 2. The User is logged in
@@ -24,6 +27,3 @@ Expected results: Profile picture is uploaded
 Actual results: Nothing happened
 
 For more details, please consider the attachment below.
-
-Note 1: This issue occurs in the Beta environment.
-Note 2: The issue occurs only with the Profile photo.
