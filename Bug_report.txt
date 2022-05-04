@@ -22,8 +22,8 @@ Steps to reproduce:
 4. Pick and upload a disered picture
 5. Click on 'Save changes'
 
-Expected results: Profile picture is uploaded
+Expected result: Profile picture is uploaded
 
-Actual results: Nothing happened
+Actual result: Nothing happened
 
 For more details, please consider the attachment below.
